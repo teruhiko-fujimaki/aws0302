@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/teruhiko-fujimaki/aws0302.git
+git add test.txt
+git commit -m "Add test.txt"
+git push -u origin master
